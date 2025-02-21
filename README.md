@@ -1,7 +1,3 @@
-Sure! Below is a structured documentation template for your dashboard, which you can use for your GitHub repository:
-
----
-
 # **SpaceX Launch Records Dashboard**
 
 ## **Overview**
